@@ -2,7 +2,6 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xuanchinh97.github.io",
   "dependencies": {
     "caniuse-lite": "^1.0.30001356",
     "classnames": "^2.3.1",
